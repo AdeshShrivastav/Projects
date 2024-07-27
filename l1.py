@@ -1,5 +1,5 @@
 import streamlit as st
-import sklearn
+import scikit-learn
 import pandas as pd
 import pickle as pkl
 import numpy as np
